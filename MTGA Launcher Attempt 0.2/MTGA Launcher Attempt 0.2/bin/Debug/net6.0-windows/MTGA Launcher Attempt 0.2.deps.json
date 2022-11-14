@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MTGA Launcher Attempt 0.2/1.0.0": {
+        "runtime": {
+          "MTGA Launcher Attempt 0.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTGA Launcher Attempt 0.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

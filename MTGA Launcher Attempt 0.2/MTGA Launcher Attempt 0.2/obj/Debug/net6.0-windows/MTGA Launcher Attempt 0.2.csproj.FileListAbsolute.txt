@@ -1,0 +1,21 @@
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.csproj.AssemblyReference.cache
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\App.g.cs
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2_MarkupCompile.cache
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\bin\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.exe
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\bin\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.deps.json
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\bin\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.runtimeconfig.json
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\bin\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.dll
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\bin\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.pdb
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2_MarkupCompile.lref
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MainWindow.baml
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.g.resources
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.AssemblyInfoInputs.cache
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.AssemblyInfo.cs
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.csproj.CoreCompileInputs.cache
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.dll
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\refint\MTGA Launcher Attempt 0.2.dll
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.pdb
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\MTGA Launcher Attempt 0.2.genruntimeconfig.cache
+F:\MTGA\Live Work\MTGA Launcher Attempt 0.2\MTGA Launcher Attempt 0.2\obj\Debug\net6.0-windows\ref\MTGA Launcher Attempt 0.2.dll
